@@ -1,4 +1,4 @@
 # My-demo
 This is my first Git Repository.
 <br/>
-Author - Jatin Singh
+Author - Jatin Singh Panwar
